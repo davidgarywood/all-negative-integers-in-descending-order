@@ -12,8 +12,8 @@ We like to keep our code reviews manageable, so please only submit one number pe
 
 ## What kind of numbers are allowed?
 
-Positive integers only thanks.
+Negative integers only thanks.
 
 ## What order should they be in?
 
-They should be in consecutive ascending order.
+They should be in consecutive descending order.
